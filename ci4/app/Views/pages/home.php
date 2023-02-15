@@ -90,7 +90,7 @@
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>22</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Undergraduate</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>email@example.com</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>hgvalguna@student.apc.edu.ph</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Username:</strong> <span>hgvalguna</span></li>
               </ul>
             </div>
