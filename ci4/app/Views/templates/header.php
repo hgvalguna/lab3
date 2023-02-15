@@ -19,4 +19,4 @@ echo script_tag('assets/vendor/php-email-form/validate.js'); ?>
 </head>
 <body>
 
-    <h1><?= esc($title) ?></h1>
+    
