@@ -80,15 +80,15 @@
           <div class="row">
             <div class="col-lg-6">
               <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 January 1111</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 January 2001</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>localhost</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+63 923 456 7890</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Metro Manila</span></li>
               </ul>
             </div>
             <div class="col-lg-6">
               <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>19</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>22</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Undergraduate</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>email@example.com</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Username:</strong> <span>hgvalguna</span></li>
