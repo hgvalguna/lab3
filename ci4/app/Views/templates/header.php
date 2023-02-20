@@ -15,7 +15,7 @@ echo script_tag('assets/vendor/isotope-layout/isotope.pkgd.min.js');
 echo script_tag('assets/vendor/swiper/swiper-bundle.min.js');
 echo script_tag('assets/vendor/waypoints/noframework.waypoints.js');
 echo script_tag('assets/vendor/php-email-form/validate.js');
-echo script_tag('assets/js/main.js') ?>
+echo script_tag('assets/js/main.js'); ?>
     <title>CodeIgniter Tutorial</title>
 </head>
 <body>
