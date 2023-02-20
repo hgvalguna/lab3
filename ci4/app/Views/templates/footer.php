@@ -1,4 +1,4 @@
 <em>&copy; 2023</em>
-<?echo script_tag('assets/js/main.js'); ?>
+<?php echo script_tag('public/assets/js/main.js'); ?>
 </body>
 </html>
