@@ -25,19 +25,13 @@
   <!-- Template Main CSS File -->
   <link href="<?=base_url('assets/css/style.css'); ?>" rel="stylesheet"> 
 
-
-
-
-
-
-
-<?php /*echo link_tag('assets/css/style.css');
+<!-- echo link_tag('assets/css/style.css');
 echo link_tag('assets/bootstrap/css/bootstrap.min.css');
 echo link_tag('assets/bootstrap-icons/bootstrap-icons.css');
 echo link_tag('assets/boxicons/css/boxicons.min.css');
 echo link_tag('assets/glightbox/css/glightbox.min.css');
 echo link_tag('assets/remixicon/remixicon.css');
-echo link_tag('assets/swiper/swiper-bundle.min.css'); */ ?>
+echo link_tag('assets/swiper/swiper-bundle.min.css'); -->
 </head>
 <body>
 

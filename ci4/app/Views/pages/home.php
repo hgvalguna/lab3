@@ -51,7 +51,7 @@
       </nav><!-- .navbar -->
 
       <div class="social-links">
-        <a href="https://github.com/hgvalguna/lab2" class="github"><i class="bi bi-github"></i></a>
+        <a href="https://github.com/hgvalguna" class="github"><i class="bi bi-github"></i></a>
         <a href="https://discord.com/" class="facebook"><i class="bi bi-discord"></i></a>
         <a href="https://instagram.com" class="instagram"><i class="bi bi-instagram"></i></a>
         <a href="https://www.linkedin.com" class="linkedin"><i class="bi bi-linkedin"></i></a>
