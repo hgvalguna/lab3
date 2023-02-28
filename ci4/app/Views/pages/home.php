@@ -46,7 +46,7 @@
           <li><a class="nav-link" href="#about">About</a></li>
           <li><a class="nav-link" href="#portfolio">Images</a></li>
           <li><a class="nav-link" href="#reference">References</a></li>
-          <li><a class="nav-link" href="guests">Guests' List</a></li>
+          <li><a class="nav-link" href="guests">Register</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
