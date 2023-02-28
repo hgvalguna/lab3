@@ -20,3 +20,6 @@
     <p>Unable to find any news for you.</p>
 
 <?php endif ?>
+<br>
+<br>
+<p><?= anchor("home", "Home") ?></p>

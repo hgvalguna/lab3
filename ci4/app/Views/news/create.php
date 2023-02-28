@@ -16,3 +16,6 @@
 
     <input type="submit" name="submit" value="Create news item">
 </form>
+<br>
+<br>
+<p><?= anchor("news", "News") ?></p>

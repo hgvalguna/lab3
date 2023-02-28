@@ -19,3 +19,6 @@
 <br>
 <br>
 <p>You can register here! <?= anchor("guest/create", "Register here!") ?></p>
+<br>
+<br>
+<p><?= anchor("home", "Home") ?></p>
