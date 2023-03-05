@@ -33,6 +33,3 @@
 
     <input type="submit" name="submit" value="Create guest entry">
 </form>
-<br>
-<br>
-<p><?= anchor("guest", "Guest") ?></p>

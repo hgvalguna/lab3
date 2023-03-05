@@ -21,13 +21,52 @@
   <link href="<?= base_url('assets/boxicons/css/boxicons.min.css'); ?>" rel="stylesheet">
   <link href="<?= base_url('assets/glightbox/css/glightbox.min.css'); ?>" rel="stylesheet">
   <link href="<?= base_url('assets/remixicon/remixicon.css');?>" rel="stylesheet">
-  <link href="<?= base_url('assets/swiper/swiper-bundle.min.css');?>" rel="stylesheet"> 
+  <link href="<?= base_url('assets/swiper/swiper-bundle.min.css');?>" rel="stylesheet">
+  <!-- Assets JS Files -->
+<script src="<?= base_url('assets/purecounter/purecounter_vanilla.js'); ?>"></script>
+<script src="<?= base_url('assets/bootstrap/js/bootstrap.bundle.min.js'); ?>"></script>
+<script src="<?= base_url('assets/glightbox/js/glightbox.min.js'); ?>"></script>
+<script src="<?= base_url('assets/isotope-layout/isotope.pkgd.min.js'); ?>"></script>
+<script src="<?= base_url('assets/swiper/swiper-bundle.min.js'); ?>"></script>
+<script src="<?= base_url('assets/waypoints/noframework.waypoints.js'); ?>"></script>
+<script src="<?= base_url('assets/php-email-form/validate.js'); ?>"></script> 
 
   <!-- Template Main CSS File 
   <link href="<?=base_url('assets/css/style.css'); ?>" rel="stylesheet"> -->
 <?php
 echo link_tag('assets/css/style.css'); ?>
+<!-- Template Main JS File 
+<script src="<?= base_url('assets/js/main.js');?>"></script> -->
+<?php script_tag('assets/js/main.js'); ?>
 </head>
 <body>
+<header id="header">
+    <div class="container">
 
+      <h1><a href="home">Ivan Valguna</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo 
+      <a href="home" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+      <h2>I'm a <span>Computer Science Student</span></h2>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link active" href="/lab3/ci4/public/home#header">Home</a></li>
+          <li><a class="nav-link" href="/lab3/ci4/public/home#about">About</a></li>
+          <li><a class="nav-link" href="/lab3/ci4/public/home#portfolio">Images</a></li>
+          <li><a class="nav-link" href="/lab3/ci4/public/home#reference">References</a></li>
+          <li><a class="nav-link" href="/lab3/ci4/public/news">News</a></li>
+          <li><a class="nav-link" href="/lab3/ci4/public/guest">Register</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <div class="social-links">
+        <a href="https://github.com/hgvalguna" class="github"><i class="bi bi-github"></i></a>
+        <a href="https://discord.com/" class="facebook"><i class="bi bi-discord"></i></a>
+        <a href="https://instagram.com" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.linkedin.com" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      </div>
+
+    </div>
+  </header><!-- End Header -->
     

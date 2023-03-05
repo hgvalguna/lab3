@@ -23,6 +23,3 @@
 <br>
 <br>
 <p>You can add news here! <?= anchor("news/create", "News Section") ?></p>
-<br>
-<br>
-<p><?= anchor("home", "Home") ?></p>

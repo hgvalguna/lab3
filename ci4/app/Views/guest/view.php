@@ -7,6 +7,3 @@
 <p><?= esc($guest['comment']) ?></p>
 <h3>Gender</h3>
 <p><?= ucfirst(esc($guest['gender'])) ?></p>
-<br>
-<br>
-<p><?= anchor("guest", "Guest") ?></p>
