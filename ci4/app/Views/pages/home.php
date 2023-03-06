@@ -299,8 +299,8 @@
   <!-- ======= Contact Section ======= -->
 <!-- End Contact Section -->
 
-  <!-- ======= Resume Section ======= -->
-  <section id="reference" class="References">
+  <!-- ======= Reference Section ======= -->
+  <section id="reference" class="references">
     <div class="container">
 
       <div class="section-title">
@@ -327,7 +327,7 @@
         
 
     </div>
-  </section><!-- End Resume Section -->
+  </section><!-- End Reference Section -->
 
 
   <!-- Vendor JS Files -->
