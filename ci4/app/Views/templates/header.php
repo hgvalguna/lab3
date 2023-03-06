@@ -43,19 +43,19 @@ echo link_tag('assets/css/style.css'); ?>
 <header id="header">
     <div class="container">
 
-      <h1><a href="/lab3/ci4/public/home">Ivan Valguna</a></h1>
+      <h1><a href="home">Ivan Valguna</a></h1>
       <!-- Uncomment below if you prefer to use an image logo 
       <a href="home" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
       <h2>I'm a <span>Computer Science Student</span></h2>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link active" href="/lab3/ci4/public/home#header">Home</a></li>
-          <li><a class="nav-link" href="/lab3/ci4/public/home#about">About</a></li>
-          <li><a class="nav-link" href="/lab3/ci4/public/home#portfolio">Images</a></li>
-          <li><a class="nav-link" href="/lab3/ci4/public/home#reference">References</a></li>
-          <li><a class="nav-link" href="/lab3/ci4/public/news">News</a></li>
-          <li><a class="nav-link" href="/lab3/ci4/public/guest">Register</a></li>
+          <li><a class="nav-link active" href="home#header">Home</a></li>
+          <li><a class="nav-link" href="home#about">About</a></li>
+          <li><a class="nav-link" href="home#portfolio">Images</a></li>
+          <li><a class="nav-link" href="home#reference">References</a></li>
+          <li><a class="nav-link" href="news">News</a></li>
+          <li><a class="nav-link" href="guest">Register</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
